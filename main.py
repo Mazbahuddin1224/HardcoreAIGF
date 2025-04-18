@@ -11,4 +11,4 @@ def send_welcome(message):
 bot.polling()
 
 
-🔧 Fix: Use env var for Telegram token
+Fix: Use env var for Telegram token
