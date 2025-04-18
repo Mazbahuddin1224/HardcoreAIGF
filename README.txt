@@ -1,0 +1,1 @@
+Instructions: Replace 'YOUR_TELEGRAM_BOT_TOKEN' in main.py and run the bot on Replit.
